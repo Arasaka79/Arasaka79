@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bahaeddin
+- 👋 Hi, I’m Bahaeddin, 22 years old from 💔IRAN💔
 - 👀 I’m interested in Game / Front-end web development
 - 🌱 I’m currently learning JS
 
